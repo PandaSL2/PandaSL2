@@ -56,7 +56,27 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PandaSL2&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## ⚡ Coding Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight&hide_border=true"/>
@@ -64,17 +84,22 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📌 Featured Quote
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaSL2&theme=tokyo-night"/>
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 👀 Profile Views
+## 👀 Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PandaSL2&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
+
 
 ---
 
