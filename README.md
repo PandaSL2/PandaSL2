@@ -39,9 +39,12 @@
 
 <p align="center">
 
-<img src="https://github-profile-achievements.vercel.app/api?username=PandaSL2&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://img.shields.io/badge/Pull%20Shark-GitHub%20Achievement-blue?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/YOLO-GitHub%20Achievement-purple?style=for-the-badge&logo=github"/>
 
 </p>
+
 
 ---
 
