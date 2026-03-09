@@ -44,31 +44,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PandaSL2&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 👀 Profile Views
 
