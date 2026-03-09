@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Software Engineering Student
+* 🎓 Computer Science Undergraduate
 * 🌱 Currently learning **Flutter, C#, Cyber Security**
 * 🚀 Working on **Mobile & Web Applications**
-* 📫 Reach me at **[theekshanadinujaya8@gmail.com](mailto:yourmail@gmail.com)**
+* 📫 Reach me at **[theekshanadinujaya8@gmail.com](mailto:theekshanadinujaya8@gmail.com)**
 * ⚡ Fun fact: I love building smart systems
 
 ---
@@ -23,14 +23,14 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/theekshana-d-a792bb23b" target="blank">
+
+<a href="https://www.linkedin.com/in/theekshana-d-a792bb23b">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="[https://instagram.com/YOURPROFILE](https://www.instagram.com/theekshanadinujaya8?igsh=MWd6cnplN3lwb3N1MA==)" target="blank">
+<a href="https://www.instagram.com/theekshanadinujaya8">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
 
 </p>
 
@@ -39,7 +39,7 @@
 ### 🚀 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,cs,dotnet,js,html,css,nodejs,mongodb,mysql,python,figma,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,cs,dotnet,js,html,css,nodejs,mongodb,mysql,python,figma,git,github,vscode,aws"/>
 </p>
 
 ---
@@ -48,11 +48,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -60,22 +60,14 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaSL2&theme=tokyo-night"/>
 
 ---
 
 ### 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://komarev.com/ghpvc/?username=PandaSL2&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
