@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Undergraduate | Passionate Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Computer+Science+Student;Flutter+Developer;Future+Cybersecurity+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Computer+Science+Student;Flutter+Developer;Future+Cybersecurity+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 * 🎓 Computer Science Undergraduate
 * 🌱 Currently learning **Flutter, C#, Cyber Security**
-* 🚀 Working on **Mobile & Web Applications**
+* 🚀 Interested in **Mobile Development & Software Engineering**
 * 📫 Reach me at **[theekshanadinujaya8@gmail.com](mailto:theekshanadinujaya8@gmail.com)**
-* ⚡ Fun fact: I love building smart systems
+* ⚡ Fun fact: I enjoy building smart systems and solving problems
 
 ---
 
@@ -25,11 +25,11 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/theekshana-d-a792bb23b">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/theekshanadinujaya8">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
@@ -44,18 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -64,19 +52,19 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## ⚡ Coding Activity
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight&hide_border=true"/>
@@ -84,22 +72,19 @@
 
 ---
 
-## 📌 Featured Quote
+## 💡 Developer Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 👀 Visitors
+## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PandaSL2&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
-
 
 ---
 
