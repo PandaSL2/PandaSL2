@@ -35,15 +35,16 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 ## 🏅 Global Achievements
 
