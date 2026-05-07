@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,nodejs,mongodb,flutter,dart,tailwind,ts,py,cs,mysql,git,vscode,docker" />
 </p>
 
-
+---
 
 
 ## 🏅 Global Achievements
