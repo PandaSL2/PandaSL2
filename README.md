@@ -32,20 +32,17 @@
 
 ---
 
-## 📊 Performance Metrics & Activity
+## 📊 Contribution History & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
-
-### 🗓️ Contribution History
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaSL2&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaSL2&theme=github-compact&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaSL2&theme=tokyonight" width="100%" alt="Contribution History" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PandaSL2&theme=dark" width="400px" />
 </p>
+
+> **Note:** To see my full history including private work, please ensure "Private Contributions" is enabled in my profile settings.
 
 ---
 
