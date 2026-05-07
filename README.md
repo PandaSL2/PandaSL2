@@ -30,21 +30,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,nodejs,mongodb,flutter,dart,tailwind,ts,py,cs,mysql,git,vscode,docker" />
 </p>
 
----
 
-## 📊 Contribution History & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaSL2&theme=github-compact&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PandaSL2&theme=dark" width="400px" />
-</p>
-
-> **Note:** To see my full history including private work, please ensure "Private Contributions" is enabled in my profile settings.
-
----
 
 
 ## 🏅 Global Achievements
