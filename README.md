@@ -1,89 +1,72 @@
 <h1 align="center">Hi 👋, I'm Theekshana Dinujaya</h1>
 
-<h3 align="center">Computer Science Undergraduate | Developer | Prompt Engineer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Prompt+Engineering+Expert;Cyber+Security+Enthusiast;Building+UniversalTools.com;Let's+Collaborate+in+2026!"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Computer+Science+Student;Flutter+Developer;Prompt+Engineering+Enthusiast;Future+Cybersecurity+Engineer;Building+Smart+AI+Solutions"/>
+  <a href="https://wa.me/94721639000?text=Hi%20Theekshana,%20I%20saw%20your%20GitHub%20profile!">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/theekshana-d-a792bb23b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## ⚡ 2026 Focus & Beyond
 
-## 👨‍💻 About Me
-
-* 🎓 Computer Science Undergraduate
-* 🧠 Exploring **Prompt Engineering & AI Systems**
-* 🌱 Currently learning **Cyber Security, AI Integration**
-* 🚀 Interested in **Mobile Development, AI, and Software Engineering**
-* 📫 Email: **[theekshanadinujaya8@gmail.com](mailto:theekshanadinujaya8@gmail.com)**
-* ⚡ Fun fact: I enjoy solving problems and building intelligent applications
+* 🚀 **Current Mission:** Scaling **UniversalTools Lab** to be the #1 privacy-first utility hub.
+* 🧠 **AI Research:** Deep-diving into **Agentic LLM Workflows** and Context Control.
+* 🛡️ **Security:** Mastering **Cybersecurity Audit Frameworks** and Secure AI Integration.
+* 📱 **Tech Stack:** Master of the **MERN Stack**, **Flutter**, and **Next.js 16+**.
 
 ---
 
-## 🧠 Prompt Engineering
-
-* 🧩 Designing structured prompts for AI systems (ChatGPT, LLMs)
-* ⚙️ Experience with **prompt optimization, role prompting, and system instructions**
-* 📊 Improving output quality through **iterative refinement techniques**
-* 🔍 Understanding of **AI behavior, context control, and response tuning**
-* 🚀 Applying prompt engineering in **real-world projects and automation**
-
----
-
-## 🌐 Connect With Me
+## 🛠️ My Tech Ecosystem
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/theekshana-d-a792bb23b">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/theekshanadinujaya8">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,nodejs,mongodb,flutter,dart,tailwind,ts,py,cs,mysql,git,vscode,docker" />
 </p>
 
 ---
 
-## 🏅 GitHub Achievements
+## 📊 Performance Metrics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
 
-<img height="120" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
-<img height="120" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 Languages & Tools
+## 🏅 Global Achievements
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,cs,dotnet,js,html,css,nodejs,mongodb,mysql,python,git,github,vscode"/>
+  <img height="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck"/>
+  <img height="100" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark"/>
+  <img height="100" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO"/>
 </p>
 
 ---
 
-## 🤖 AI & Prompt Engineering Stack
+## 📞 Get In Touch
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
+I'm always open to discussing new projects, AI automation, or tech collaborations.
 
-<p align="center">
-💡 ChatGPT | Prompt Design | AI Automation | LLM Workflows
-</p>
+* **WhatsApp:** [+94 72 163 9000](https://wa.me/94721639000)
+* **Email:** [theekshanadinujaya8@gmail.com](mailto:theekshanadinujaya8@gmail.com)
+* **Website:** [UniversalToolsLab.com](https://universaltoolslab.com)
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PandaSL2&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=PandaSL2&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Views" />
 </p>
 
----
-
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<h3 align="center">Built with 💻 and ☕ by Theekshana</h3>
