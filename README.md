@@ -32,15 +32,19 @@
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Performance Metrics & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaSL2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PandaSL2&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</p>
+
+### 🗓️ Contribution History
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaSL2&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaSL2&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaSL2&theme=tokyonight" width="100%" alt="Contribution History" />
 </p>
 
 ---
